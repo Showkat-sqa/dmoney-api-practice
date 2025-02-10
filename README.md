@@ -23,9 +23,9 @@ require("dotenv").config()
 
 **7. Generate newman report:** 'node .\report.js'
 
-## Documentation for API: [Documentation](https://documenter.getpostman.com/view/40659331/2sAYJAfxmb)
-## Test Cases: 
-## Bug reports: 
+** Documentation for API:** [Check here](https://documenter.getpostman.com/view/40659331/2sAYJAfxmb)
+** Test Cases:** 
+** Bug reports:** 
 
 ## Output
 ![image](https://github.com/user-attachments/assets/0c10e3eb-f39d-4d05-b4c2-820f8e8df994)
