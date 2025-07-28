@@ -26,6 +26,7 @@ require("dotenv").config()
 **Documentation for API:** [Check here](https://documenter.getpostman.com/view/40659331/2sAYJAfxmb)
 
 **Test Cases:** 
+https://github.com/Showkat-sqa/dmoney-api-practice/blob/main/dmoney%20testcase.xlsx
 
 **Bug reports:** 
 
